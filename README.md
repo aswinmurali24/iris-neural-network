@@ -8,14 +8,22 @@ This project aims to provide a simple implementation of a neural network for the
 The Iris dataset contains 150 samples of iris flowers, each with four features:
 
 Sepal length
+
 Sepal width
+
 Petal length
+
 Petal width
+
+
 There are three classes of iris flowers:
 
 Iris Setosa
+
 Iris Versicolor
+
 Iris Virginica
+
 The dataset used in this project is included in the repository as iris.csv.
 
 # Model Architecture
